@@ -4,13 +4,17 @@
 
 yspring单片机开发工具
 
-### 关于[8051单片机](https://github.com/mcuyun/8051) 
+### 更多[8051单片机](https://github.com/mcuyun/8051) 
 
 ---
 
-## 背景
+## [内容简介](https://github.com/mcuyun/yspring/wiki) 
 
-国产单片机，有可取之处
+国产汇春单片机，存在既有价值
+
+## IDE
+
+相关开发平台和编译工具
 
 ## 汇春单片机
 
