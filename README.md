@@ -8,13 +8,23 @@
 
 [SWM190](https://github.com/SoCXin/SWM190)
 
+[![sites](docs/SWM190.png)](http://www.synwit.cn/productInfo/68/index.html)
+
+#### 关键特性
+
+* CORDIC三角函数计算模块，可快速计算sin、cos等三角函数；
+* 16位高精度SIGMA-DELTA ADC，前置7级可编程增益，最大32倍；
+* CAN总线接口，支持DMA传输，最大速率1Mbit/s；
+* 4COM*32SEG SLCD模块，最大支持128段LCD显示屏。
+
 ### [资源收录](https://github.com/SoCXin)
 
-* [文档](docs/)
-* [资源](src/)
+* [参考文档](docs/)
+* [参考资源](src/)
+* [参考工程](project/)
 
 ### [选型建议](https://github.com/SoCXin)
 
 [SWM190](https://github.com/SoCXin/SWM190)
 
-###  [SoC芯平台](http://www.SoC.Xin)
+###  [www.SoC.xin(芯)](http://www.SoC.Xin)
