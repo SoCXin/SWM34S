@@ -1,0 +1,1 @@
+功能说明：UART接收中断Demo，确保一定能产生超时中断（Always Timeout）
