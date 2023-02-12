@@ -1,30 +1,37 @@
-﻿# [SWM190](https://github.com/SoCXin/SWM190)
+﻿# [SWM34S](https://www.soc.xin/SWM34S)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
+* [Synwit](http://www.synwit.cn): [Cortex-M33](https://github.com/SoCXin/Cortex)
+* [L2R4](https://github.com/SoCXin/Level): 150 MHz , [￥14.50](https://item.taobao.com/item.htm?spm=a230r.1.14.8.117b7838CBLJw3&id=688049346001&ns=1&abbucket=3#detail)
 
-#### [Vendor](https://github.com/SoCXin/Vendor) ：[Synwit](http://www.synwit.cn)
-#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
-#### [Level](https://github.com/SoCXin/Level)：60MHz
+## [简介](https://github.com/SoCXin/SWM34S/wiki)
 
-[SWM190](https://github.com/SoCXin/SWM190)
+[SWM34S](https://www.synwit.cn/gaishu952/)
 
-[![sites](docs/SWM190.png)](http://www.synwit.cn/productInfo/68/index.html)
 
-#### 关键特性
+### 关键参数
 
-* CORDIC三角函数计算模块，可快速计算sin、cos等三角函数；
-* 16位高精度SIGMA-DELTA ADC，前置7级可编程增益，最大32倍；
-* CAN总线接口，支持DMA传输，最大速率1Mbit/s；
-* 4COM*32SEG SLCD模块，最大支持128段LCD显示屏。
+* 150MHz Cortex®-M33
+* 64KB SRAM + 512KB Flash + SDRAM(2MB/8MB/16MB)
+* 1个RGB565接口(64Pin)，1个RGB888接口(100Pin)
+* JPEG硬件解码器，DMA2D
+* USB OTG*1, I2C*2, SPI*2, UART*4, I2S*2, CAN*2, SDIO*1
+* 5个32位高级定时器
+* 3个比较器，4个运放，1个DAC
+* 2个12位19通道的SAR ADC
+* 工作电压2.0V - 3.6V,多种省电工作模式
+* 提供 QFP64/QFP100 封装
+* 工作温度范围（环境温度）-40℃ - 85℃
 
-### [资源收录](https://github.com/SoCXin)
 
-* [参考文档](docs/)
+## [资源收录](https://github.com/SoCXin)
+
 * [参考资源](src/)
+* [参考文档](docs/)
 * [参考工程](project/)
 
-### [选型建议](https://github.com/SoCXin)
+## [选型建议](https://github.com/SoCXin/SWM34S)
 
-[SWM190](https://github.com/SoCXin/SWM190)
+[SWM34S](https://github.com/SoCXin/SWM34S)主要应用于屏幕驱动。
 
-###  [www.SoC.xin(芯)](http://www.SoC.Xin)
+
+## [www.SoC.xin](http://www.SoC.Xin)
